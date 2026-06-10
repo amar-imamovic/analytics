@@ -1,0 +1,9 @@
+# Nmap 7.99 scan initiated Wed Jun 10 15:00:45 2026 as: /usr/lib/nmap/nmap -sU -sV -sC --top-ports 1000 -oN nmap-udp-scan.txt analytical.htb
+Nmap scan report for analytical.htb (10.129.229.224)
+Host is up (0.083s latency).
+Not shown: 999 closed udp ports (port-unreach)
+PORT   STATE         SERVICE VERSION
+68/udp open|filtered dhcpc
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed Jun 10 15:19:19 2026 -- 1 IP address (1 host up) scanned in 1113.64 seconds

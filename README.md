@@ -1,4 +1,4 @@
-# Hack The Box - Easy - Analytical
+# Hack The Box - Easy - Analytics
 
 ## Enumeration
 
